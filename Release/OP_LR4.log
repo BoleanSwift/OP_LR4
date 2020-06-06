@@ -1,0 +1,8 @@
+﻿  main.cpp
+  UserInterface.cpp
+  WAVFILE.cpp
+  WavParser.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OP_LR4.vcxproj -> C:\Users\bryto\source\repos\OP_LR4\Release\OP_LR4.exe

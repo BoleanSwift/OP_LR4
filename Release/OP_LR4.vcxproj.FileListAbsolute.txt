@@ -1,0 +1,2 @@
+C:\Users\bryto\source\repos\OP_LR4\Release\OP_LR4.vcxprojAssemblyReference.cache
+C:\Users\bryto\source\repos\OP_LR4\Release\OP_LR4.exe
